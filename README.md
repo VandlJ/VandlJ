@@ -25,6 +25,6 @@ For more projects, visit my [GitHub repositories](https://github.com/VandlJ?tab=
 
 ### 📫 How to reach me
 - GitHub: [VandlJ](https://github.com/VandlJ)
-- LinkedIn: [Jan Vandlíček]([https://github.com/VandlJ](https://www.linkedin.com/in/vandl/))
+- LinkedIn: [Jan Vandlíček](https://www.linkedin.com/in/vandl/)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
